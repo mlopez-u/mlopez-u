@@ -2,9 +2,9 @@
 
 Automation & Software Engineer with a strong foundation in **RPA** and process optimization, currently expanding my stack toward full-stack development and modern software architecture.
 
-* ⚙️ **Automation Core:** Spent years designing, building, and scaling resilient bot ecosystems in enterprise financial environments. Deep experience with **Blue Prism**, **Appian**, **Python**, and **C#**.
-* 🚀 **Current Focus:** Expanding into broader software development, building modern web applications, APIs, and scalable Micro-SaaS tools.
-* 📈 **Engineering Philosophy:** Clean code, robust error handling, and measurable performance over manual overhead.
+*  **Automation Core:** Spent years designing, building, and scaling resilient bot ecosystems in enterprise financial environments. Deep experience with **Blue Prism**, **Appian**, **Python**, and **C#**.
+*  **Current Focus:** Expanding into broader software development, building modern web applications, APIs, and scalable Micro-SaaS tools.
+*  **Engineering Philosophy:** Clean code, robust error handling, and measurable performance over manual overhead.
 
 ### 🛠 Tech & Stack
 
