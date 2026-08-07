@@ -1,6 +1,6 @@
 ## 🤖 Hey There 
 
-Automation & Software Engineer with a strong foundation in **RPA** and process optimization, currently expanding my stack toward web development and modern software architecture.
+RPA & Software Engineer, currently expanding my stack toward web development and modern software architecture.
 
 *  **Automation Core:** Spent years designing, building, and scaling resilient bot ecosystems in enterprise financial environments. Deep experience with **Blue Prism**, **Appian**, **Python**, and **C#**.
 *  **Current Focus:** Expanding into broader software development, building modern web applications with React and Nest JS, APIs, and scalable Micro-SaaS tools.
