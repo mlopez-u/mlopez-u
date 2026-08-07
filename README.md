@@ -1,4 +1,4 @@
-## 🤖 Hey! 
+## 🤖 Hey There 
 
 Automation & Software Engineer with a strong foundation in **RPA** and process optimization, currently expanding my stack toward web development and modern software architecture.
 
