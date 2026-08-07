@@ -1,4 +1,4 @@
-## 🤖 Hey There 
+## 🤖 Hey there 
 
 RPA & Software Engineer, currently expanding my stack toward web development and modern software architecture.
 
