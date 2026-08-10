@@ -8,8 +8,7 @@ and C#. That world taught me to think in systems, handle failure
 gracefully, and never ship something fragile.
 
 Now I'm pushing further. Learning React, NestJS, and modern architecture 
-patterns — not because I have to, but because there's always a next level 
-and I'm not the kind of person who stays comfortable for too long.
+patterns — not because I have to, but because there's always a next level.
 
 Clean code. Measurable results. One more problem solved than yesterday.
 
