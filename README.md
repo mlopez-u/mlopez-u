@@ -1,10 +1,19 @@
-## 🤖 Hey there 
+## Hey, I'm Moisés 👋
 
-RPA & Software Engineer, currently expanding my stack toward web development and modern software architecture.
+RPA Engineer by background, software engineer by direction.
 
-*  **Automation Core:** Spent years designing, building, and scaling resilient bot ecosystems in enterprise financial environments. Deep experience with **Blue Prism**, **Appian**, **Python**, and **C#**.
-*  **Current Focus:** Expanding into broader software development, building modern web applications with React and Nest JS, APIs, and scalable Micro-SaaS tools.
-*  **Engineering Philosophy:** Clean code, robust error handling, and measurable performance over manual overhead.
+I've spent years deep in enterprise automation — building and scaling 
+bot ecosystems for global financial companies using Blue Prism, Python, 
+and C#. That world taught me to think in systems, handle failure 
+gracefully, and never ship something fragile.
+
+Now I'm pushing further. Learning React, NestJS, and modern architecture 
+patterns — not because I have to, but because there's always a next level 
+and I'm not the kind of person who stays comfortable for too long.
+
+Clean code. Measurable results. One more problem solved than yesterday.
+
+That's the path.
 
 ### 🛠 Tech & Stack
 
