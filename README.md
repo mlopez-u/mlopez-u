@@ -2,35 +2,42 @@
 
 RPA Engineer by background, software engineer by direction.
 
-I've spent years deep in enterprise automation — building and scaling 
-bot ecosystems for global financial companies using Blue Prism, Python, 
-and C#. That world taught me to think in systems, handle failure 
-gracefully, and never ship something fragile.
+I've spent 6+ years deep in enterprise automation — building and scaling 
+bot ecosystems, ETL pipelines, and banking data solutions for global financial companies 
+using Blue Prism, UiPath, Python, and C#. That world taught me to think in systems, 
+handle failure gracefully, and never ship something fragile.
 
-Now I'm pushing further. Learning React, NestJS, and modern architecture 
-patterns — not because I have to, but because there's always a next level.
+Now I'm pushing further. Building modern backends, APIs, and microservices with Java (Spring Boot), 
+.NET, Node.js, and Cloud environments — backed by strong QA data validation and backend SQL analysis.
 
-Clean code. Measurable results. One more problem solved than yesterday.
+Clean code. Measurable results. Immediate availability to deliver high-impact automation.
 
 That's the path.
 
 ### 🛠 Tech & Stack
 
-<!-- Software Engineering & Web -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- Fullstack Development -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<!-- Data & Cloud -->
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/oracle%20db-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- RPA & Automation -->
+<!-- RPA & BPM -->
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Blue Prism](https://img.shields.io/badge/Blue%20Prism-002D62?style=for-the-badge&logo=generic&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
