@@ -1,25 +1,16 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05070A,55:172554,100:0070CC&text=Moises%20Lopez&fontColor=F0F6FC&fontSize=44&fontAlign=50&fontAlignY=34&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=16&descAlign=50&descAlignY=56&animation=fadeIn" alt="Moises Lopez — RPA Engineer | Software Engineer" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05070A,55:172554,100:0070CC&text=Moises%20Lopez&fontColor=F0F6FC&fontSize=31&fontAlign=50&fontAlignY=30&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=11&descAlign=50&descAlignY=50&animation=fadeIn" alt="Moises Lopez — RPA Engineer | Software Engineer" />
+</div><p><strong>Hi, I'm Moises👋🏻 </strong></p>
 
-## Hey, I'm Moisés 👋
+For 6+ years, I've built and scaled enterprise automation, ETL pipelines, and banking data solutions for global financial firms. Working with, UiPath, Blue Prism, Python, and C# taught me to design reliable systems, manage failures, and avoid fragile releases.
 
-RPA Engineer by background, software engineer by direction.
+Now I build modern backends, APIs, and microservices with Java (Spring Boot), .NET, Node.js, and cloud platforms. I bring strong QA, data validation, and SQL analysis to each project.
 
-I've spent 6+ years deep in enterprise automation — building and scaling bot ecosystems, ETL pipelines, and banking data solutions for global financial companies using Blue Prism, UiPath, Python, and C#. That world taught me to think in systems, handle failure gracefully, and never ship something fragile.
+Committed to making everyday work easier through thoughtful automation.
 
-Now I'm pushing further. Building modern backends, APIs, and microservices with Java (Spring Boot), .NET, Node.js, and Cloud environments — backed by strong QA data validation and backend SQL analysis.
-
-Clean code. Measurable results. Immediate availability to deliver high-impact automation.
-
-That's the path.
-
----
-
-## 🛠 Languages & Tools
+<p><strong>🛠 Languages &amp; Tools</strong></p>
 
 <p align="center"><strong>Backend & Full Stack</strong></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=F89820" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -42,7 +33,6 @@ That's the path.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 <p align="center"><strong>Data, Cloud & Version Control</strong></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   &nbsp;
@@ -57,7 +47,6 @@ That's the path.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 <p align="center"><strong>RPA & Business Process Automation</strong></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
   &nbsp;
@@ -70,9 +59,7 @@ That's the path.
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA" />
 </p>
 
----
-
-## GitHub at a glance
+<p><strong>GitHub at a glance</strong></p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MLopez-u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&hide_rank=true&card_width=340" alt="GitHub profile statistics" />
