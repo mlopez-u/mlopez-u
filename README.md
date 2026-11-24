@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,55:172554,100:6D5DFB&text=Mois%C3%A9s%20L%C3%B3pez&fontColor=F0F6FC&fontSize=48&fontAlignY=38&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=60" alt="Moisés López — RPA Engineer | Software Engineer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05070A,55:172554,100:0070CC&text=Moises%20Lopez&fontColor=F0F6FC&fontSize=44&fontAlign=50&fontAlignY=34&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=16&descAlign=50&descAlignY=56&animation=fadeIn" alt="Moises Lopez — RPA Engineer | Software Engineer" />
 </div>
 
 ## Hey, I'm Moisés 👋
@@ -18,91 +16,69 @@ That's the path.
 
 ---
 
-## Connect with me
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-    <img height="38" width="38" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" />
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <img height="38" width="38" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="LinkedIn" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="38" width="38" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" />
-</p>
-
----
-
 ## 🛠 Languages & Tools
 
-<h3 align="center">Backend & Full Stack</h3>
+<p align="center"><strong>Backend & Full Stack</strong></p>
 
 <p align="center">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/aspnetcore.svg" alt="ASP.NET Core" title="ASP.NET Core" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" />
-  <br /><br />
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-
-<h3 align="center">Data, Cloud & Version Control</h3>
+<p align="center"><strong>Data, Cloud & Version Control</strong></p>
 
 <p align="center">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/sqlserver.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/oracle.svg" alt="Oracle Database" title="Oracle Database" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-<h3 align="center">RPA & Business Process Automation</h3>
+<p align="center"><strong>RPA & Business Process Automation</strong></p>
 
 <p align="center">
-  <img height="48" width="48" src="./assets/tech-icons/uipath.svg" alt="UiPath" title="UiPath" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/blueprism.png" alt="Blue Prism" title="Blue Prism" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/power-automate.svg" alt="Microsoft Power Automate" title="Microsoft Power Automate" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/appian.svg" alt="Appian" title="Appian" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="48" width="48" src="./assets/tech-icons/vba.svg" alt="VBA" title="VBA" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blue%20Prism-002D62?style=for-the-badge" alt="Blue Prism" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge" alt="Microsoft Power Automate" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Appian-232F3E?style=for-the-badge&logo=appian&logoColor=white" alt="Appian" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA" />
 </p>
 
 ---
 
 ## GitHub at a glance
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MLopez-u&show_icons=true&hide_border=true&bg_color=00000000&title_color=79C0FF&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub statistics" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLopez-u&layout=compact&hide_border=true&bg_color=00000000&title_color=79C0FF&text_color=C9D1D9" alt="Most used programming languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MLopez-u&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub contribution streak" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MLopez-u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&hide_rank=true&card_width=340" alt="GitHub profile statistics" />
+  &nbsp;
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=MLopez-u&theme=github_dark&hide_border=true&bg_color=0D1117&hide_title=true&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=170" alt="GitHub rank with progress ring" />
+  &nbsp;
+  <img height="155" src="https://streak-stats.demolab.com?user=MLopez-u&theme=github-dark-blue&hide_border=true&background=00000000&hide_current_streak=true&hide_longest_streak=true&card_width=320&card_height=155" alt="Total GitHub contributions" />
+</p>
 
