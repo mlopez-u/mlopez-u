@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF2D00,80:FF8F00,100:FFD110F&text=Moises%20Lopez&fontColor=F0F6FC&fontSize=31&fontAlign=50&fontAlignY=30&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=11&descAlign=50&descAlignY=50&animation=fadeIn" alt="Moises Lopez — RPA Engineer | Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:FF2D00,80:FF8F00,100:FFD110F&text=Moises%20Lopez&fontColor=F0F6FC&fontSize=31&fontAlign=50&fontAlignY=30&desc=RPA%20Engineer%20%7C%20Software%20Engineer&descSize=11&descAlign=50&descAlignY=50&animation=fadeIn" alt="Moises Lopez — RPA Engineer | Software Engineer" />
 </div><p><strong>Hi, I'm Moises👋🏻 </strong></p>
 
 For 6+ years, I've built and scaled enterprise automation, ETL pipelines, and banking data solutions for global financial firms. Working with, UiPath, Blue Prism, Python, and C# taught me to design reliable systems, manage failures, and avoid fragile releases.
